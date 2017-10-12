@@ -1,5 +1,6 @@
 # Site settings
 baseurl = "http://agrayhound.github.io"
+publishDir = "docs"
 languageCode = "en-us"
 title = "Agency"
 theme = "hugo-agency-theme"
