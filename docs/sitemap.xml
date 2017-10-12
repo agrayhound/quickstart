@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://agrayhound.github.io/</loc>
+    <loc>https://agrayhound.github.io/quickstart/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://agrayhound.github.io/categories/</loc>
+    <loc>https://agrayhound.github.io/quickstart/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://agrayhound.github.io/tags/</loc>
+    <loc>https://agrayhound.github.io/quickstart/tags/</loc>
     <priority>0</priority>
   </url>
   
